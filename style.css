@@ -1,9 +1,13 @@
 /* Whole document: */
 body {
   font-family: Helvetica;
-  font-size: 16pt;
+  font-size: 10pt;
   color: white;
   background-color: #000000;
+}
+
+a {
+  color: white;
 }
 
 .big-img {
